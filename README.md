@@ -9,4 +9,4 @@ npx hardhat run scripts/buy-coffee.js
 npx hardhat run scripts/deploy.js
 npx hardhat run scripts/withdraw.js
 ```
-Address of the contract deployed on the Etheruem Georli Network: 0xB78E99C2DFF16C3E9Cc2BA70E5d8637255cc76A5
+Address of the contract deployed on the Etheruem Georli Network: [0xB78E99C2DFF16C3E9Cc2BA70E5d8637255cc76A5](https://goerli.etherscan.io/address/0xB78E99C2DFF16C3E9Cc2BA70E5d8637255cc76A5)
